@@ -10,6 +10,10 @@
 
 * Our project is focused on looking at historical patterns of stock performance, establishing their individual CAPM, and predicting the future performance of these stocks over Fiscal Year 2020 and how that compares to their ACTUAL performance during this unprecedented time. We'll use data from Googale/Yahoo finance to compare and contrast.
 
+* How have stocks performed in 2020 when compared to their predicted return rate from historical data?
+
+* Compare ACTUAL performance of several index stocks, hand-picked stocks and random stocks to their predicted return.
+
 ### Relevant Definitions
 
 * **Alpha** - a measure of an investment's performance, when compared to a related stock market index (i.e. S&P 500). It is often used to describe an investment's "edge" on the market, or it's "abnormal rate of return".
@@ -36,7 +40,7 @@
 
 * [ ] Jupyter Notebook - *final data analysis*
 
-* [ ] PyViz, Panel, Plotly Express, and Hvplot
+* [X] PyViz, Panel, Plotly Express, and Hvplot
 
   * [ ] Create six to eight visualizations of our data
 
@@ -47,5 +51,7 @@
 * [X] new Python library
 
 * [ ] Optional API
+
+* [ ] OPTIONAL - Input box in panels/dashboard for entering stock ticker
 
 * [ ] Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
