@@ -24,7 +24,7 @@
 
 * **Exploration and Cleanup** - [Capital_project.ipynb](./Capital_project.ipynb)
 
-  * [ ] Import, clean, normalize data and calculate alpha, beta and CAPM
+  * [X] Import, clean, normalize data and calculate alpha, beta and CAPM
 
 * **Analysis and Display** - [Dashboard.ipynb](./Dashboard.ipynb)
 
@@ -54,4 +54,4 @@
 
 * [ ] OPTIONAL - Input box in panels/dashboard for entering stock ticker
 
-* [ ] Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question you asked of your data and under each heading a short description of what you found and any relevant plots.
+* [ ] Create a README.md in your repo with a write-up summarizing your major findings. Heading and short summary per finding.
