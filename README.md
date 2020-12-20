@@ -28,9 +28,9 @@
 
 * **Analysis and Display** - [Dashboard.ipynb](./Dashboard.ipynb)
 
-  * [ ] Plot data and compare predicated vs actual
+  * [X] Plot data and compare predicated vs actual
 
-  * [ ] Aggregation, correlation, comparison, summary statistics, and financial analysis.
+  * [X] Aggregation, correlation, comparison, summary statistics, and financial analysis.
 
 ## Technical Requirements
 
@@ -38,20 +38,18 @@
 
 * [x] Jupyter Notebook - *data exploration and cleanup* process
 
-* [ ] Jupyter Notebook - *final data analysis*
+* [X] [Jupyter Notebook](./dashboard.ipynb) - *final data analysis*
 
 * [X] PyViz, Panel, Plotly Express, and Hvplot
 
-  * [ ] Create six to eight visualizations of our data
+  * [X] Create six to eight visualizations of our data
 
-  * [ ] Aggregate these visualizations into a dashboard.
+  * [X] Aggregate these visualizations into a dashboard.
 
   * [ ] Save PNG images of our visualizations
 
 * [X] new Python library
 
-* [ ] Optional API
+* [X] Optional API - **Yahoo Finance**
 
 * [ ] OPTIONAL - Input box in panels/dashboard for entering stock ticker
-
-* [ ] Create a README.md in your repo with a write-up summarizing your major findings. Heading and short summary per finding.
